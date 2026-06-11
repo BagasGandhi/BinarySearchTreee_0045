@@ -96,4 +96,9 @@ public:
         }
     }
 
+    void preorder(Node *ptr)
+    {
+
+    }
+
 };
