@@ -18,3 +18,21 @@ public:
    }
 
 };
+
+class BinaryTree
+{
+public:
+   Node *ROOT;
+
+   BinaryTree()
+   {
+        ROOT = NULL; // initializing ROOT to NULL
+   }
+
+   // Insert a Node in the binary search tree
+   void insert(string element)
+   {
+
+   }
+
+};
